@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Upasana-Chatterjee
-- 👀 I’m interested in Coding and cyber security
+- 👀 I’m interested in Coding and Data Science
+
 - 🌱 I’m currently learning BTech CSE in IEM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
