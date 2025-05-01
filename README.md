@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Upasana-Chatterjee
-- 👀 I’m interested in Coding and Data Science
+- 👀 I’m interested in Coding in Java, Python and am interested in Data Science
 
-- 🌱 I’m currently learning BTech CSE in IEM
+- 🌱 I’m a CSE Grad from IEMK, currently working in Tata Consultancy Services
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
